@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tripai-e452100a.zappy5.app/sitemap.xml

@@ -1,0 +1,57 @@
+# TripAI — Generative Engine Optimization Map
+
+> A תיירות ונסיעות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://tripai-e452100a.zappy5.app
+תכנון מסלול טיול בחול מותאם אישית עם TripAI. צור מסלולים, קבל המלצות מקומיות ותכנן את הטיול המושלם שלך בקלות.
+
+### שירותים
+https://tripai-e452100a.zappy5.app/services
+גלה את מגוון השירותים של TripAI לתכנון מסלול טיול בחול. אינטגרציה עם גוגל פלייטס, המלצות מקומיות, תכנון שיתופי ועוד.
+
+### אודות
+https://tripai-e452100a.zappy5.app/about
+למד על TripAI, הפלטפורמה החדשנית לתכנון מסלול טיול בחול. גלה את החזון שלנו, את הערכים שלנו ואת הקהילה שיצרנו.
+
+### צור קשר
+https://tripai-e452100a.zappy5.app/contact
+יש לך שאלות על TripAI או צריך עזרה בתכנון מסלול טיול? צור איתנו קשר ונשמח לעזור לך לתכנן את הטיול המושלם שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://tripai-e452100a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tripai-e452100a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tripai-e452100a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TripAI
+TripAI is a business in the תיירות ונסיעות industry.
+
+## Target Audience
+משתמשים המחפשים ליצור ולמצוא מסלולים בחול ליעדים שהם טסים
+
+## Industry
+תיירות ונסיעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://tripai-e452100a.zappy5.app/sitemap.xml
+- **Robots.txt**: https://tripai-e452100a.zappy5.app/robots.txt
